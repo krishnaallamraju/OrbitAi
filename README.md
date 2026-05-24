@@ -15,23 +15,6 @@ OrbitAI is an intelligent student productivity assistant designed to help studen
 
 Built with modern AI technologies, OrbitAI combines the flexibility of TypeScript with the power of LangChain to create a scalable and smart productivity ecosystem for students.
 
-# Project Structure
-
-OrbitAI/
-│── src/
-│   ├── agents/
-│   ├── tools/
-│   ├── prompts/
-│   ├── services/
-│   ├── utils/
-│   └── index.ts
-│
-│── public/
-│── package.json
-│── tsconfig.json
-│── .env
-│── README.md
-
 ## How OrbitAi works
 
 How OrbitAI Works
