@@ -9,18 +9,41 @@ To run this project locally, start the development server and open:
 
 http://localhost:5173/
 
-# React + TypeScript + Vite
+## OrbitAI — Student Productivity AI Agent
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+OrbitAI is an intelligent student productivity assistant designed to help students manage tasks, organize study schedules, boost focus, and streamline academic workflows using AI-powered automation.
 
-Currently, two official plugins are available:
+Built with modern AI technologies, OrbitAI combines the flexibility of TypeScript with the power of LangChain to create a scalable and smart productivity ecosystem for students.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Project Structure
 
-## React Compiler
+OrbitAI/
+│── src/
+│   ├── agents/
+│   ├── tools/
+│   ├── prompts/
+│   ├── services/
+│   ├── utils/
+│   └── index.ts
+│
+│── public/
+│── package.json
+│── tsconfig.json
+│── .env
+│── README.md
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## How OrbitAi works
+
+How OrbitAI Works
+
+OrbitAI leverages LangChain agents and AI workflows to:
+
+Understand student queries
+Organize academic tasks
+Generate productivity recommendations
+Help manage study sessions efficiently
+Provide conversational assistance in real time
+
 
 ## Expanding the ESLint configuration
 
