@@ -1,3 +1,10 @@
+## Local Development
+
+To run this project locally, start the development server and open:
+
+```bash
+http://localhost:5173/
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
