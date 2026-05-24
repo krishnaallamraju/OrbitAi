@@ -1,8 +1,12 @@
 ## Local Development
 
+Clone the repository and install dependencies:
+
+npm install
+npm run dev
+
 To run this project locally, start the development server and open:
 
-```bash
 http://localhost:5173/
 
 # React + TypeScript + Vite
